@@ -3,7 +3,9 @@
 ### (2022.08.01 ~ 2022.08.26 Qualifying round)
 
 ## Outline
-I did some experiments
+[Public: 0.88289 #59, **Private: 0.87972 #57** :bowtie:]<br>
+Test3 in ipynb(submission_inverse_deep1_conv1d_pred_fold7_1.csv)<br>
+I did some experiments using ***Neural network***
 
 #### Data experiments
 1. RobustScaler and MinMaxScaler
